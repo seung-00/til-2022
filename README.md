@@ -10,3 +10,10 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Categories
 * [TIL](https://seung-00-til.notion.site/TIL-2022-5b7933a98da34d1d97836b2ce1215e67)
+  * [Web](https://seung-00-til.notion.site/534bb36f64c04b9c8a55252f0d8be9b3?v=fdfb3c62ec314307aee29d3dadb06a11)
+
+---
+
+### Web
+
+* [데이터 전송의 간략한 역사](https://seung-00-til.notion.site/4a562cf30b624a58a571c3ce069ac71e)
