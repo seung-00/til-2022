@@ -37,7 +37,11 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Java
 
 * [변수, 연산자, 피연산자](https://seung-00-til.notion.site/d4003d223d1847a4b4d005229f09abab)
+* [Java 의 객체지향](https://seung-00-til.notion.site/Java-181312601fa34e9e8d1d2dafc2133795)
+* [JVM 구조](https://seung-00-til.notion.site/JVM-eeb96cd7628542faa5cd62ddad908805)
 * [빌드와 빌드 관리 도구](https://seung-00-til.notion.site/805cbfd1da0c4851b33305365d5b38d1)
+
+
 ---
 
 ### Spring
