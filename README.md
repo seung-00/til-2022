@@ -41,6 +41,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [JVM 구조](https://seung-00-til.notion.site/JVM-eeb96cd7628542faa5cd62ddad908805)
 * [빌드와 빌드 관리 도구](https://seung-00-til.notion.site/805cbfd1da0c4851b33305365d5b38d1)
 * [람다식](https://seung-00-til.notion.site/1ca11af467034b0397ae99588590fbd8)
+* [스트림](https://seung-00-til.notion.site/123b7f6495c74d278f612a61d9db55de)
 
 
 ---
