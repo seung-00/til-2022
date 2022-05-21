@@ -25,6 +25,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Software Engineering
 
 * [Dependency Injection](https://seung-00-til.notion.site/Dependency-Injection-2be96de7032b471680f09830620a9632)
+* [Agile](https://seung-00-til.notion.site/Agile-d27e5721b2dc4ee1b91bdf6734f57441)
 ---
 
 ### Typescript
