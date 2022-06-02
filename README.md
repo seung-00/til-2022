@@ -2,9 +2,13 @@
 
 > A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til). all the docs were written in the Notion. If you have any questions or issues, please leave a comment on notion or [email](mailto:osy0056@khu.ac.kr).
+Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til). All the docs were written in the Notion.
 
-오늘 공부한 것들을 간단하게 정리합니다. jbranchaud/til 를 참고했습니다. 모든 문서들은 노션에서 작성했습니다. 문제 사항이나 의견 있으시다면 노션에 코멘트나 이메일 남겨주시길 바랍니다.
+Please leave a GitHub issue, if you have any issues.
+
+오늘 공부한 것들을 간단하게 정리합니다. jbranchaud/til 를 참고했습니다. 모든 문서들은 노션에서 작성했습니다.
+
+이슈 있으시다면 깃허브 이슈로 등록해주시길 바랍니다.
 
 ---
 
@@ -13,6 +17,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Web](https://seung-00-til.notion.site/534bb36f64c04b9c8a55252f0d8be9b3?v=fdfb3c62ec314307aee29d3dadb06a11)
   * [Software Engineering](https://seung-00-til.notion.site/67578baf610b43c4a875d5b1bda3f915?v=0a926b282d1c434794766248e61abe0f)
   * [Typescript](https://seung-00-til.notion.site/dfd5c6e17a894ce68e100bd14a9c4701?v=a6f546c26f9d4c16a56373fe9812c55c)
+  * [React](https://seung-00-til.notion.site/d73d8605b66b43b99c5c0c170ab79f91?v=0009b8c6cbad49c99cf1c1d36eef13ce)
   * [Java](https://seung-00-til.notion.site/7333738e84c848d484daf3406058999b?v=9c5e6434910a48efabfe14d1d2285522)
   * [Spring](https://seung-00-til.notion.site/0ebcf28b02a0451c8fdc1b32c4e6cc7f?v=a74e035b67cd49beb0c4bd89336b1181)
 ---
@@ -27,6 +32,18 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Dependency Injection](https://seung-00-til.notion.site/Dependency-Injection-2be96de7032b471680f09830620a9632)
 * [Agile](https://seung-00-til.notion.site/Agile-d27e5721b2dc4ee1b91bdf6734f57441)
 * [객체지향 생활 체조 원칙](https://seung-00-til.notion.site/12f2cbdcf387492bb325dcbe6f1fc05a) 
+---
+
+### React
+
+* [Controlled Component, Uncontrolled Component](https://seung-00-til.notion.site/Controlled-Component-Uncontrolled-Component-4e6018bdd931423abe514ec90736c66e)
+* ["전역 상태 관리에 대한 단상" 을 읽고](https://seung-00-til.notion.site/5641a441633b4422b6e9492cb47b02ef)
+* ["실무에서 바로 쓰는 Frontend Clean Code" 를 보고](https://seung-00-til.notion.site/Frontend-Clean-Code-12dadba92e5248fdb8ba78e45b48d99a)
+* [Practical React Query (번역)](https://seung-00-til.notion.site/1-Practical-React-Query-118ff5f29e744158bea8425241e2efed)
+* [React Query Data Transformations (번역)](https://seung-00-til.notion.site/2-React-Query-Data-Transformations-bef4f04dd6224ab98dfa8fedf2921c7e)
+* [React Query Render Optimizations (번역)](https://seung-00-til.notion.site/3-React-Query-Render-Optimizations-6efe5bca8c164545b5022e1357700514)
+* [Status Checks in React Query (번역) ](https://seung-00-til.notion.site/4-Status-Checks-in-React-Query-e1bcb3a69c3b496eaa9d44947bdb2c2c)
+
 ---
 
 ### Typescript
