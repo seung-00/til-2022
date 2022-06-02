@@ -26,6 +26,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [Dependency Injection](https://seung-00-til.notion.site/Dependency-Injection-2be96de7032b471680f09830620a9632)
 * [Agile](https://seung-00-til.notion.site/Agile-d27e5721b2dc4ee1b91bdf6734f57441)
+* [객체지향 생활 체조 원칙](https://seung-00-til.notion.site/12f2cbdcf387492bb325dcbe6f1fc05a) 
 ---
 
 ### Typescript
